@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/twoghoul/develop/dcm_bi'
+let g:netrw_dirhist_2='/home/twoghoul/develop/utl_chk_chofuku'
+let g:netrw_dirhist_3='/home/twoghoul/develop'
+let g:netrw_dirhist_4='/home/miyazaki/code/svn2git'
+let g:netrw_dirhist_5='/home/miyazaki/code/stl/src/plugins'
+let g:netrw_dirhist_6='/home/miyazaki/.emacs.d'
+let g:netrw_dirhist_7='/home/miyazaki/auto_mails/kaizenwebautomail'
+let g:netrw_dirhist_8='/home/miyazaki/tools'
+let g:netrw_dirhist_9='/home/miyazaki/.themes'
